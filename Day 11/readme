@@ -1,1 +1,30 @@
 
+https://github.com/Yashdev67/Daily-Webdevelopment/tree/main
+https://www.linkedin.com/in/yashwantmule/
+Day 11 learning : 
+>how to use rgb values for applying background color in css
+>Storage of rgb values 
+>transparency , apart from rgb values in background color , we can also change transparency
+>HSL(Hue Saturation and lightness), we can change bg color according to this also
+>We can also display color in hexadecimal
+>pixel: is called picture element
+>Different units of sizes used : px,em,rem,vh,vw,percentage
+>Also did a Small Assignment :  <!-- Write html and css code to style a paragraph inside a div which contains 5 other paragraphs. The first paragraph must have background color yellow and text color red. The other paragraphs must have background color blue and text color white. The HMTL is written below for your reference. Do not change this html --> 
+    <div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita explicabo consectetur dicta fuga ea at vitae suscipit, repellendus illum deleniti laboriosam ipsa distinctio.</p>
+        <p>I am another para</p>
+        <p>I am also another para</p>
+    </div>
+    <div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita explicabo consectetur dicta fuga ea at vitae suscipit, repellendus illum deleniti laboriosam ipsa distinctio.</p>
+        <p>I am another para</p>
+        <p>I am also another para</p>
+    </div>
+>You can use :first-child, :nth-child(n) in the css child selector
+>What is Cascading 
+>Inline CSS have highest priority
+>Final priority list of elemnts
+ >0: !importatn
+ >1:Inline CSS
+ >2:ID
+ >3:Class
