@@ -1,1 +1,57 @@
 
+https://github.com/Yashdev67/Daily-Webdevelopment/tree/main
+https://www.linkedin.com/in/yashwantmule/
+Day 12 learning :
+>Learned about different postion properties
+ >relative 
+ >sticky
+ >absolute
+ >fixed
+
+>how relateive is different from absolute
+>how is sticky userd 
+>what is z-index
+
+>Did one small mini project on css - creating japan's flag only using css.
+
+HTML: 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="outer">
+        <div class="inner">
+            
+        </div>
+    </div>
+</body>
+</html>
+
+
+CSS:
+
+.outer{
+    height: 200px;
+    width: 400px;
+    border: solid black 2px;
+    position: relative;
+    left: 500px;
+    top: 300px;
+}
+
+.inner{
+    border:solid black 1px;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    position:absolute;
+    top: 50px;
+    left: 150px;
+    background-color: red;
+}
